@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to Save Money Bank - Staging environment APIs for Loans Microservice"
   contactDetails:
     name: "Bavigadda Prudhviraj"
-    email: "prudhviraj.stage@example.com"  # Staging-specific email
+    email: "{cipher}f4893e275cfb2f3dce9546f34f85160614808148fb426213922022662abb5f9490057bc44cf6446a0506a8c3308fe1e4"  # Staging-specific email
   onCallSupport:
     - +91 2233445566  # Staging support number
