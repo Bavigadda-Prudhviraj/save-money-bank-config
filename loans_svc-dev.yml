@@ -1,0 +1,10 @@
+build:
+  version: "4.0_dev"  # Development version identifier
+
+accounts:
+  message: "Welcome to Save Money Bank - Dev environment APIs for Loans Microservice"
+  contactDetails:
+    name: "Bavigadda Prudhviraj"
+    email: "prudhviraj729@gmail.com"
+  onCallSupport:
+    - +91 6302610681  # Same support number, as the dev environment might not need a different one

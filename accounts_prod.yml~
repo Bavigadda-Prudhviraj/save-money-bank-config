@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0_prod"  # Production version identifier
+
+accounts:
+  message: "Welcome to Save Money Bank - Production APIs for accounts microservice"
+  contactDetails:
+    name: "Bavigadda Prudhviraj"
+    email: "prudhviraj729@gmail.com"  # Different contact email for production
+  onCallSupport:
+    - +91 6302610681  # Production support number
