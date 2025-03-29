@@ -2,7 +2,7 @@ build:
   version: "4.0_dev"  # Development version identifier
 
 accounts:
-  message: "Welcome to Save Money Bank - Development environment APIs for accounts microservice webhook"
+  message: "Welcome to Save Money Bank - Development environment APIs for accounts microservice webhook undo"
   contactDetails:
     name: "Bavigadda Prudhviraj"
     email: "prudhviraj729@gmail.com"
