@@ -2,7 +2,7 @@ build:
   version: "5.0"  # Default version identifier
 
 accounts:
-  message: "Welcome to Save Money Bank - Default environment APIs for Loans Microservice"
+  message: "Welcome to Save Money Bank - Default environment APIs for Loans Microservice webhook"
   contactDetails:
     name: "Bavigadda Prudhviraj"
     email: "prudhviraj.default@example.com"  # Default email
