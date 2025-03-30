@@ -1,7 +1,7 @@
 build:
   version: "5.0"  # Default version identifier
 
-accounts:
+loans:
   message: "Welcome to Save Money Bank - Default environment APIs for Loans Microservice webhook"
   contactDetails:
     name: "Bavigadda Prudhviraj"

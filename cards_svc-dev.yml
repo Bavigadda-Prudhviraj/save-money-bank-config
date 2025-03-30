@@ -1,7 +1,7 @@
 build:
   version: "4.0_dev"  # Development version identifier
 
-accounts:
+cards:
   message: "Welcome to Save Money Bank - Development environment APIs for Cards Microservice"
   contactDetails:
     name: "Bavigadda Prudhviraj"

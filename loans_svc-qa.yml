@@ -1,7 +1,7 @@
 build:
   version: "3.0_test"  # Test version identifier
 
-accounts:
+loans:
   message: "Welcome to Save Money Bank - Test environment APIs for Loans Microservice"
   contactDetails:
     name: "Bavigadda Prudhviraj"

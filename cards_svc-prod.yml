@@ -1,7 +1,7 @@
 build:
   version: "1.0_prod"  # Production version identifier
 
-accounts:
+cards:
   message: "Welcome to Save Money Bank - Production APIs for Cards Microservice"
   contactDetails:
     name: "Bavigadda Prudhviraj"

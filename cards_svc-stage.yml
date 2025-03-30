@@ -1,7 +1,7 @@
 build:
   version: "2.0_stage"  # Staging version identifier
 
-accounts:
+cards:
   message: "Welcome to Save Money Bank - Staging environment APIs for Cards Microservice"
   contactDetails:
     name: "Bavigadda Prudhviraj"
