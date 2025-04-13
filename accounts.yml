@@ -1,0 +1,10 @@
+build:
+  version: "5.0"  # Default version identifier
+
+accounts:
+  message: "Welcome to Save Money Bank - Default environment APIs for accounts microservice web"
+  contactDetails:
+    name: "Bavigadda Prudhviraj"
+    email: "prudhviraj.default@example.com"  # Default email
+  onCallSupport:
+    - +91 9998887777  # Default support number for general use

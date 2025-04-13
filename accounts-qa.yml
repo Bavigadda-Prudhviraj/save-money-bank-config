@@ -1,0 +1,10 @@
+build:
+  version: "3.0_test"  # Test version identifier
+
+accounts:
+  message: "Welcome to Save Money Bank - Test environment APIs for accounts microservice"
+  contactDetails:
+    name: "Bavigadda Prudhviraj"
+    email: "prudhviraj.test@example.com"  # Different contact email for test environment
+  onCallSupport:
+    - +91 1112233445  # Test support number
